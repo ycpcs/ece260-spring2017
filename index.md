@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: ECE260
-title: Data Structures
+title: Fundamentals of Computer Engineering
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
