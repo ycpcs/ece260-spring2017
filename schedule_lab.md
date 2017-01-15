@@ -17,12 +17,12 @@ Week of Feb 6  |                                                                
 Week of Feb 13 |                                                                                               |                                                             |
 Week of Feb 20 |                                                                                               |                                                             |
 Week of Feb 27 |  **NO LAB - Winter Break**                                                                    |                                                             |
-Week of Mar 6  |  SIGCSE WEEK - i'll be gone for wednesday lab                                                 |                                                             |
+Week of Mar 6  |  SIGCSE WEEK - no wednesday lab                                                               |                                                             |
 Week of Mar 13 |                                                                                               |                                                             |
 Week of Mar 20 |                                                                                               |                                                             |
 Week of Mar 27 |                                                                                               |                                                             |
 Week of Apr 3  |                                                                                               |                                                             |
 Week of Apr 10 |                                                                                               |                                                             |
-Week of Apr 17 |  No Monday?!?!                                                                                |                                                             |
+Week of Apr 17 |  No Class Monday                                                                              |                                                             |
 Week of Apr 24 |                                                                                               |                                                             |
 Week of May 1  |                                                                                               |                                                             |                                                                        

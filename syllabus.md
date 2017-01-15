@@ -83,9 +83,9 @@ Following completion of this course students should (letters in parentheses indi
 Your grade in this course will be a weighted average based on the following weights, and assigned on a 100-point scale 
 according to the table below.
 
-  - Homework & Quizzes: **25%**
+  - Homework & Quizzes: **15%**
   - Labs: **25%**
-  - Exams: **50% (16% each)**
+  - Exams: **60% (20% each)**
   - Final Exam: **Optional; can replace lowest exam grade**
 
 | Range             |  Grade   |
