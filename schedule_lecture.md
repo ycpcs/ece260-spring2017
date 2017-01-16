@@ -13,7 +13,7 @@ Additional content will be added as it becomes available throughout the semester
 Tue, Jan 17    |  **NO CLASS**                                                                                 |                                                             |
 Thur, Jan 19   |  Introduction                                                                                 |  COAD5 § 1.1 - 1.4                                          |
                |                                                                                               |                                                             |
-Tue, Jan 24    |                                                                                               |  COAD5 § 1.5 - 1.7                                          |
+Tue, Jan 24    |  Technologies & Performance                                                                   |  COAD5 § 1.5 - 1.11                                         |
 Thur, Jan 26   |                                                                                               |                                                             |
                |                                                                                               |                                                             |
 Tue, Jan 31    |                                                                                               |                                                             |
@@ -32,7 +32,7 @@ Tue, Feb 28    |  **NO CLASS - Winter Break**                                   
 Thur, Mar 2    |  **NO CLASS - Winter Break**                                                                  |                                                             |
                |                                                                                               |                                                             |
 Tue, Mar 7     |                                                                                               |                                                             |
-Thur, Mar 9    |  SIGCSE WEEK                                                                                  |                                                             |
+Thur, Mar 9    |    |    |    <!-- SIGCSE WEEK, no Thursday lecture --> 
                |                                                                                               |                                                             |
 Tue, Mar 14    |                                                                                               |                                                             |
 Thur, Mar 16   |                                                                                               |                                                             |
