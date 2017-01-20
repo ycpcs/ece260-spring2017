@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 **Date**       | **Topic**                                                                                     |  **Reading**                                                |  **Assignments**                                                           
 :--------------|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------|:-----------------------------------------------------------------------    
 Tue, Jan 17    |  **NO CLASS**                                                                                 |                                                             |
-Thur, Jan 19   |  Introduction                                                                                 |  COAD5 § 1.1 - 1.4                                          |
+Thur, Jan 19   |  [Introduction](lectures/lecture1_introduction.pdf)                                           |  COAD5 § 1.1 - 1.4                                          |
  | | |                                                                                                                                                                        
 Tue, Jan 24    |  Technologies & Performance                                                                   |  COAD5 § 1.5 - 1.11                                         |
 Thur, Jan 26   |                                                                                               |                                                             | <!-- COAD5 § 2.1 - 2.4 -->
