@@ -1,0 +1,39 @@
+####################################################################
+ECE260
+HW1
+####################################################################
+Physical copy is to be submitted in class on the due date.
+####################################################################
+
+INSTRUCTIONS:
+##############
+Complete the selected problems from your text book.
+Each problem (or part) is worth from 0 to 3 points.
+
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH PROBLEM
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH PROBLEM
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH PROBLEM
+PUT A BOX AROUND YOUR FINAL ANSWERS FOR EACH PROBLEM
+
+####################################################################
+
+1.3    (0 - 3 points)
+
+1.4(a) (0 - 3 points)
+1.4(b) (0 - 3 points)
+
+1.5(a) (0 - 3 points)
+1.5(b) (0 - 3 points)
+1.5(c) (0 - 3 points)
+
+1.6(a) (0 - 3 points)
+1.6(b) (0 - 3 points)
+
+1.8.1  (0 - 3 points)
+1.8.2  (0 - 3 points)
+
+####################################################################
+
+TOTAL POINTS: (0 - 30 points)
+
+####################################################################
