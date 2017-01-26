@@ -14,9 +14,9 @@ Tue, Jan 17    |  **NO CLASS**                                                  
 Thur, Jan 19   |  [Introduction](lectures/lecture1_introduction.pdf)                                           |  COAD5 § 1.1 - 1.4                                          |
  | | |                                                                                                                                                                        
 Tue, Jan 24    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)             |  COAD5 § 1.5 - 1.11                                         |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 31, 2017
-Thur, Jan 26   |  Data Representation & Instruction Operands                                                |  COAD5 § 2.1 - 2.4                                          |
+Thur, Jan 26   |  Data Representation                                                                          |  COAD5 § 2.4                                                |
  | | |                                                                                                                                                                        
-Tue, Jan 31    |                                                                                               |                                                             | <!-- COAD5 § 2.5 - 2.6 -->
+Tue, Jan 31    |  Instruction Sets & Operands                                                                             |  COAD5 § 2.1 - 2.3, 2.5 - 2.6                               |
 Thur, Feb 2    |                                                                                               |                                                             | <!-- COAD5 § 2.7 -->
  | | |                                                                                                                                                                        
 Tue, Feb 7     |                                                                                               |                                                             | <!-- COAD5 § 2.8 -->
