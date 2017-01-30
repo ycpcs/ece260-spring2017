@@ -11,7 +11,7 @@ Additional content will be added as it becomes available throughout the semester
 **Week**       | **Lab**                                                                                                                             |  **Due**                                                                                                                   
 :--------------|:------------------------------------------------------------------------------------------------------------------------------------|:--------------------------    
 Week of Jan 16 |  [Review and Introduction to C/C++](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWb2V3b1VOWVZwaHM/view?usp=sharing)        |  1 week from assigned date                                           
-Week of Jan 23 |                                                                                                                                     |
+Week of Jan 23 |  [Computer Architecture](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWY2FFXzNaR1FldVk/view?usp=sharing)                   |  1 week from assigned date
 Week of Jan 30 |                                                                                                                                     |
 Week of Feb 6  |                                                                                                                                     |
 Week of Feb 13 |                                                                                                                                     |
