@@ -15,5 +15,7 @@ This page contains links to useful resources.
   - [MIPS Green Sheet](./MIPS_Green_Sheet.pdf)
   
   - [MIPS Cheat Sheet](./MIPS_Cheat_Sheet.pdf)
+  
+  - [MARS (MIPS Assembler and Runtime Simulator)](./Mars4_5.jar)
  
   - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
