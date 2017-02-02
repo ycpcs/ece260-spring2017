@@ -11,5 +11,9 @@ This page contains links to useful resources.
   - Another C++ Reference: [LearnCpp.com](http://www.learncpp.com)
   
   - Yet Another C++ Reference: [cplusplus.com](http://www.cplusplus.com)
+  
+  - [MIPS Green Sheet](./MIPS_Green_Sheet.pdf)
+  
+  - [MIPS Cheat Sheet](./MIPS_Cheat_Sheet.pdf)
  
- - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
+  - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
