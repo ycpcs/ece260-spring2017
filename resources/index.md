@@ -17,5 +17,7 @@ This page contains links to useful resources.
   - [MIPS Cheat Sheet](./MIPS_Cheat_Sheet.pdf)
   
   - [MARS (MIPS Assembler and Runtime Simulator)](./Mars4_5.jar)
+  
+  - [MARS Homepage (includes a nice MARS tutorial)](http://courses.missouristate.edu/KenVollmar/Mars/index.htm)
  
   - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
