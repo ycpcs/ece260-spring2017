@@ -19,8 +19,8 @@ Thur, Jan 26   |  [Data Representation & 2's Complement](lectures/lecture3_data_
 Tue, Jan 31    |  [Instruction Sets & Operands](lectures/lecture4_instructions_and_instruction_sets.pdf)               |  COAD5 § 2.1 - 2.3                                          |  [Homework #2](homework/Homework_Assignment_2.txt) <br> Due Tue, Feb 7, 2017
 Thur, Feb 2    |  [MIPS Instruction Set](lectures/lecture5_MIPS_instruction_set.pdf)                                   |  COAD5 § 2.5 - 2.6                                          |
  | | |
-Tue, Feb 7     |  MIPS Instruction Set Part 2                                                                          |  COAD5 § 2.7                                                |
-Thur, Feb 9    |                                                                                                       |                                                             | <!-- COAD5 § 2.8 -->
+Tue, Feb 7     |  MIPS Instruction Set Part 2                                                                          |  COAD5 § 2.7                                                |  [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 14, 2017
+Thur, Feb 9    |                                                                                                       |  COAD5 § 2.8                                                | <!-- COAD5 § 2.8 -->
  | | |
 Tue, Feb 14    |                                                                                                       |                                                             | <!-- COAD5 § 2.9 - 2.11 -->
 Thur, Feb 16   |                                                                                                       |                                                             | <!-- COAD5 § 2.12 - 2.13 -->
