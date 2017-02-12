@@ -26,7 +26,7 @@ Tue, Feb 14    |  Supporting Procedures in Computer Hardware                    
 Thur, Feb 16   |                                                                                                       |                                                             | <!-- COAD5 § 2.9 - 2.11 -->
  | | |
 Tue, Feb 21    |                                                                                                       |                                                             | <!-- COAD5 § 2.12 - 2.13 -->
-Thur, Feb 23   |                                                                                                       |                                                             | <!-- EXAM #1 -->
+Thur, Feb 23   |  **EXAM #1**                                                                                          |                                                             |
  | | |
 Tue, Feb 28    |  **NO CLASS - Winter Break**                                                                          |                                                             | <!-- Winter Break -->
 Thur, Mar 2    |  **NO CLASS - Winter Break**                                                                          |                                                             | <!-- Winter Break -->
