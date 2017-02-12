@@ -13,7 +13,7 @@ Additional content will be added as it becomes available throughout the semester
 Week of Jan 16 |  [Review and Introduction to C/C++](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWb2V3b1VOWVZwaHM/view?usp=sharing)        |  1 week from assigned date                                           
 Week of Jan 23 |  [Computer Architecture](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWY2FFXzNaR1FldVk/view?usp=sharing)                   |  1 week from assigned date
 Week of Jan 30 |  [Intro to MIPS Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWME9NTEw1SWJEUG8/view?usp=sharing)                  |  1 week from assigned date
-Week of Feb 6  |                                                                                                                                     |
+Week of Feb 6  |  [Branching and Conditional Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWNzd0M3NTX0VpU2M/view?usp=sharing)      |  1 week from assigned date
 Week of Feb 13 |                                                                                                                                     |
 Week of Feb 20 |                                                                                                                                     |
 Week of Feb 27 |  **NO Lab - Winter Break**                                                                                                          |
