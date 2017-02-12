@@ -26,18 +26,18 @@ Tue, Feb 14    |  Supporting Procedures in Computer Hardware                    
 Thur, Feb 16   |                                                                                                       |                                                             | <!-- COAD5 § 2.9 - 2.11 -->
  | | |
 Tue, Feb 21    |                                                                                                       |                                                             | <!-- COAD5 § 2.12 - 2.13 -->
-Thur, Feb 23   |  **EXAM #1**                                                                                          |                                                             |
+Thur, Feb 23   |                                                                                                       |                                                             |
  | | |
 Tue, Feb 28    |  **NO CLASS - Winter Break**                                                                          |                                                             | <!-- Winter Break -->
 Thur, Mar 2    |  **NO CLASS - Winter Break**                                                                          |                                                             | <!-- Winter Break -->
  | | |
-Tue, Mar 7     |                                                                                                       |                                                             | <!-- COAD5 § 3.1 - 3.3 -->
-Thur, Mar 9    |                                                                                                       |                                                             | <!-- SIGCSE WEEK, no Thursday lecture --> 
+Tue, Mar 7     |  **EXAM #1**                                                                                          |                                                             | 
+Thur, Mar 9    |  **NO CLASS**                                                                                         |                                                             | <!-- SIGCSE WEEK, no Thursday lecture --> 
  | | |
-Tue, Mar 14    |                                                                                                       |                                                             | <!-- COAD5 § 3.4 - 3.5 -->
-Thur, Mar 16   |                                                                                                       |                                                             | <!-- COAD5 § 3.6 - 3.9 -->
+Tue, Mar 14    |                                                                                                       |                                                             | <!-- COAD5 § 3.1 - 3.3 -->
+Thur, Mar 16   |                                                                                                       |                                                             | <!-- COAD5 § 3.4 - 3.5 -->
  | | |
-Tue, Mar 21    |                                                                                                       |                                                             |
+Tue, Mar 21    |                                                                                                       |                                                             | <!-- COAD5 § 3.6 - 3.9 -->
 Thur, Mar 23   |                                                                                                       |                                                             | <!-- COAD5 § 4.1 - 4.3 -->
  | | |
 Tue, Mar 28    |                                                                                                       |                                                             | <!-- COAD5 § 4.3 - 4.5 -->
@@ -46,7 +46,7 @@ Thur, Mar 30   |                                                                
 Tue, Apr 4     |                                                                                                       |                                                             | <!-- COAD5 § 4.8 - 4.9 -->
 Thur, Apr 6    |                                                                                                       |                                                             | <!-- COAD5 § 4.10 -->
  | | |
-Tue, Apr 11    |                                                                                                       |                                                             | <!-- EXAM #2 -->
+Tue, Apr 11    |  **EXAM #2 (Tentative)**                                                                              |                                                             | <!-- EXAM #2 -->
 Thur, Apr 13   |  **NO CLASS - Spring Break**                                                                          |                                                             | <!-- Spring Break -->
  | | |
 Tue, Apr 18    |                                                                                                       |                                                             | <!-- COAD5 § 5.1 - 5.3 -->
@@ -56,5 +56,5 @@ Tue, Apr 25    |                                                                
 Thur, Apr 27   |                                                                                                       |                                                             | <!-- COAD5 § 6.1 - 6.3 -->
  | | |
 Tue, May 2     |                                                                                                       |                                                             | <!-- COAD5 § 6.4 - 6.6 -->
-Thur, May 4    |                                                                                                       |                                                             | <!-- EXAM #3 -->
+Thur, May 4    |  **EXAM #3 (Tentative)**                                                                              |                                                             | <!-- EXAM #3 -->
  | | |
