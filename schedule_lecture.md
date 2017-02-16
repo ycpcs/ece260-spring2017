@@ -23,7 +23,7 @@ Tue, Feb 7     |                                                                
 Thur, Feb 9    |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  COAD5 § 2.7                                                |
  | | |
 Tue, Feb 14    |  [Supporting Procedures in Computer Hardware](lectures/lecture7_Supporting_Procedures_in_Computer_Hardware.pdf)  |  COAD5 § 2.8                                                |  [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Feb 21, 2017 
-Thur, Feb 16   |  Supporting Nested Procedures                                                                                    |  COAD5 § 2.8                                                | 
+Thur, Feb 16   |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |  COAD5 § 2.8                                                | 
  | | |
 Tue, Feb 21    |                                                                                                                  |                                                             | <!-- COAD5 § 2.9 - 2.11 --> 
 Thur, Feb 23   |                                                                                                                  |                                                             | <!-- COAD5 § 2.12 - 2.13 -->
