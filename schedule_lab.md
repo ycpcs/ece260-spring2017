@@ -14,7 +14,7 @@ Week of Jan 23 |  [Review and Introduction to C/C++](https://drive.google.com/a/
 Week of Jan 30 |  [Computer Architecture](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWY2FFXzNaR1FldVk/view?usp=sharing)                   |  1 week from assigned date
 Week of Feb 6  |  [Intro to MIPS Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWME9NTEw1SWJEUG8/view?usp=sharing)                  |  1 week from assigned date
 Week of Feb 13 |  [Branching and Conditional Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWNzd0M3NTX0VpU2M/view?usp=sharing)      |  1 week from assigned date
-Week of Feb 20 |                                                                                                                                     |
+Week of Feb 20 |  [MIPS Procedures](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWRmJFcWpJQndaVVE/view?usp=sharing)                         |  1 week from assigned date
 Week of Feb 27 |  **NO LAB - Winter Break**                                                                                                          |
 Week of Mar 6  |  **NO LAB - Exam Week**                                                                                                             |  <!-- SIGCSE WEEK - no wednesday lab section -->                                                                                                  
 Week of Mar 13 |                                                                                                                                     |
