@@ -26,7 +26,7 @@ Tue, Feb 14    |  [Supporting Procedures in Computer Hardware](lectures/lecture7
 Thur, Feb 16   |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |  COAD5 § 2.8                                                | 
  | | |
 Tue, Feb 21    |  [Accessing and Addressing Memory](lectures/lecture9_Accessing_and_Addressing_Memory.pdf)                        |  COAD5 § 2.9, § 2.13                                        | 
-Thur, Feb 23   |  Translation of High-Level Languages                                                                             |  COAD5 § 2.12                                               | 
+Thur, Feb 23   |  [Translation of High-Level Languages](lectures/lecture10_Translation_of_High-Level_Languages.pdf)               |  COAD5 § 2.12                                               | 
  | | |
 Tue, Feb 28    |  **NO CLASS - Winter Break**                                                                                     |                                                             | <!-- Winter Break -->
 Thur, Mar 2    |  **NO CLASS - Winter Break**                                                                                     |                                                             | <!-- Winter Break -->
