@@ -16,12 +16,12 @@ Week of Feb 6  |  [Intro to MIPS Assembly](https://drive.google.com/a/ycp.edu/fi
 Week of Feb 13 |  [Branching and Conditional Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWNzd0M3NTX0VpU2M/view?usp=sharing)      |  1 week from assigned date
 Week of Feb 20 |  [MIPS Procedures](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWRmJFcWpJQndaVVE/view?usp=sharing)                         |  1 week from assigned date
 Week of Feb 27 |  **NO LAB - Winter Break**                                                                                                          |
-Week of Mar 6  |  **NO LAB - Exam Week**                                                                                                             |  <!-- SIGCSE WEEK - no wednesday lab section -->                                                                                                  
-Week of Mar 13 |                                                                                                                                     |
-Week of Mar 20 |                                                                                                                                     |
-Week of Mar 27 |                                                                                                                                     |
-Week of Apr 3  |                                                                                                                                     |
-Week of Apr 10 |                                                                                                                                     |
+Week of Mar 6  |  **NO LAB - Exam Week**                                                                                                             |  <!-- EXAM/SIGCSE WEEK - no lab -->                                                                                                  
+Week of Mar 13 |  Continue working on Lab #5                                                                                                         |
+Week of Mar 20 |                                                                                                                                     |  <!-- Lab #6 -->
+Week of Mar 27 |                                                                                                                                     |  <!-- Lab #7 --> 
+Week of Apr 3  |                                                                                                                                     |  <!-- Lab #8 -->
+Week of Apr 10 |  **NO LAB - Exam Week**                                                                                                             |  <!-- EXAM WEEK - no lab -->
 Week of Apr 17 |  **NO LAB - Spring Break**                                                                                                          |
-Week of Apr 24 |                                                                                                                                     |
+Week of Apr 24 |                                                                                                                                     |  <!-- Lab #9 -->
 Week of May 1  |  **NO LAB - Last Week of Classes**                                                                                                  |
