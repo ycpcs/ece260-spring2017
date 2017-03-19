@@ -35,7 +35,7 @@ Tue, Mar 7     |  **EXAM #1**                                                   
 Thur, Mar 9    |  **NO CLASS**                                                                                                    |                                                             | <!-- SIGCSE WEEK, no Thursday lecture --> 
  | | |
 Tue, Mar 14    |  **NO CLASS - SNOW DAY** ❄❄❄❄❄                                                                                   |                                                             | <!-- COD5 § 3.1 - 3.5 -->
-Thur, Mar 16   |  Arithmetic for Computers                                                                                        |  COD5 § 3.1 - 3.5                                           |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due Thur, Mar 23, 2017  <!-- COD5 § 3.5 maybe do some float examples in 2018 if no snow day! -->
+Thur, Mar 16   |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_Computers.pdf)                                     |  COD5 § 3.1 - 3.5                                           |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due Thur, Mar 23, 2017  <!-- COD5 § 3.5 maybe do some float examples in 2018 if no snow day! -->
  | | |
 Tue, Mar 21    |                                                                                                                  |                                                             | <!-- COD5 § ?? - ?? -->
 Thur, Mar 23   |                                                                                                                  |                                                             | <!-- COD5 § 4.1 - 4.3 -->
