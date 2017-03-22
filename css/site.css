@@ -83,7 +83,7 @@ table {
 	margin:1em;
 }
 
-table.css3 tbody tr + tr:nth-child(3n+3) {
+table.lectureSchedule tbody tr + tr:nth-child(3n+3) {
 	background-color: slategray;
 }
 
