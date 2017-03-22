@@ -38,7 +38,7 @@ Tue, Mar 14    |  **NO CLASS - SNOW DAY** ❄❄❄❄❄                       
 Thur, Mar 16   |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_Computers.pdf)                                     |  COD5 § 3.1 - 3.3                                           |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due Thur, Mar 23, 2017  <!-- COD5 § 3.5 maybe do some float examples in 2018 if no snow day! -->
  | | |
 Tue, Mar 21    |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  COD5 § 3.4 - 3.5                                           | 
-Thur, Mar 23   |                                                                                                                  |                                                             | <!-- COD5 § 4.1 - 4.3 -->
+Thur, Mar 23   |                                                                                                                  |  COD5 § 4.1 - 4.3                                           |
  | | |
 Tue, Mar 28    |                                                                                                                  |                                                             | <!-- COD5 § 4.3 - 4.5 -->
 Thur, Mar 30   |                                                                                                                  |                                                             | <!-- COD5 § 4.6 - 4.7 -->
