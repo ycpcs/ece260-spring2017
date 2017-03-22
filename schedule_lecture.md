@@ -57,4 +57,4 @@ Additional content will be added as it becomes available throughout the semester
 |   | | |   | 
 | Tue, May 2     |                                                                                                                  |                                                             | | <!-- COD5 § 6.4 - 6.6 -->
 | Thur, May 4    |  **EXAM #3 (Tentative)**                                                                                         |                                                             | | <!-- EXAM #3 -->
-|   | | |   |{.lectureSchedule}
+|   | | |   |
