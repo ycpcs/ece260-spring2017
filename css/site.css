@@ -83,6 +83,10 @@ table {
 	margin:1em;
 }
 
+table.css3 tbody tr + tr:nth-child(3n+3) {
+	background-color: slategray;
+}
+
 
 th {
 	border:2px solid #bbb;
