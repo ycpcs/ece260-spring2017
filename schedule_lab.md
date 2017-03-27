@@ -19,7 +19,7 @@ Week of Feb 27 |  **NO LAB - Winter Break**                                     
 Week of Mar 6  |  **NO LAB - Exam Week**                                                                                                               |  <!-- EXAM/SIGCSE WEEK - no lab -->                                                                                                  
 Week of Mar 13 |  Continue working on Lab #5                                                                                                           |
 Week of Mar 20 |  [Introduction to Floating-Point Operations](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWU09zTXAwVktOQ1k/view?usp=sharing) |  1 week from assigned date
-Week of Mar 27 |                                                                                                                                       |  <!-- Lab #7 --> 
+Week of Mar 27 |  [More Fun with Floats](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWVHExb18xT0RMMUE/view?usp=sharing)                      |  1 week from assigned date
 Week of Apr 3  |                                                                                                                                       |  <!-- Lab #8 -->
 Week of Apr 10 |  **NO LAB - Exam Week**                                                                                                               |  <!-- EXAM WEEK - no lab -->
 Week of Apr 17 |  **NO LAB - Spring Break**                                                                                                            |
