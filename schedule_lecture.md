@@ -40,7 +40,7 @@ Thur, Mar 16   |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_C
 Tue, Mar 21    |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  COD5 § 3.4 - 3.5                                           | 
 Thur, Mar 23   |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  COD5 § 4.1 - 4.3                                           |
  | | |
-Tue, Mar 28    |  Datapath for a Simplified Processor (continued)                                                                 |  COD5 § 4.3 - 4.4                                           |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 4, 2017 
+Tue, Mar 28    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  COD5 § 4.3 - 4.4                                           |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 4, 2017 
 Thur, Mar 30   |  Pipelining                                                                                                      |  COD5 § 4.5 - 4.7                                           | 
  | | |
 Tue, Apr 4     |                                                                                                                  |                                                             | <!-- COD5 § 4.8 - 4.9 -->
