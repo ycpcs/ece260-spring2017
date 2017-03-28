@@ -1,6 +1,6 @@
 ####################################################################
 ECE260
-HW5
+HW6
 ####################################################################
 Physical copy is to be submitted in class on the due date.
 ####################################################################
@@ -16,29 +16,33 @@ Each problem (or part) is worth from 0 to 3 points.
 
 From your textbook:
 ======================
-3.6    (0 - 3 points)
+4.1.1    (0 - 3 points)
+4.1.2    (0 - 3 points)
+4.1.3    (0 - 3 points)
 
-** Note on problems 3.9-3.10 - for positive input values that are 
-** greater than 127, be sure to treat them the same way an 8-bit
-** processor would when doing signed arithmetic!!
-3.9    (0 - 3 points)
-3.10   (0 - 3 points)
-3.11   (0 - 3 points)
+4.2.1    (0 - 3 points)
+4.2.2    (0 - 3 points)
+4.2.3    (0 - 3 points)
 
-3.12   (0 - 3 points) ** treat 6-bit values as octal
-3.13   (0 - 3 points)
+4.3.1    (0 - 3 points)
+4.3.2    (0 - 3 points)
 
-3.18   (0 - 3 points) ** treat 6-bit values as octal
-3.19   (0 - 3 points) ** treat 6-bit values as octal
+4.7.1    (0 - 3 points)
+4.7.2    (0 - 3 points)
+4.7.3    (0 - 3 points)
+4.7.4    (0 - 3 points)
+4.7.5    (0 - 3 points)
+4.7.6    (0 - 3 points)
 
-3.22   (0 - 3 points)
-3.23   (0 - 3 points)
-3.24   (0 - 3 points)
+4.8.1    (0 - 3 points)
+4.8.2    (0 - 3 points)
+4.8.3    (0 - 3 points)
 
-
+4.13.1   (0 - 3 points)
+4.13.2   (0 - 3 points)
 
 ####################################################################
 
-TOTAL POINTS: (0 - 33 points)
+TOTAL POINTS: (0 - 57 points)
 
 ####################################################################
