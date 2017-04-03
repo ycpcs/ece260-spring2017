@@ -21,3 +21,5 @@ This page contains links to useful resources.
   - [MARS Homepage (includes a nice MARS tutorial)](http://courses.missouristate.edu/KenVollmar/Mars/index.htm)
  
   - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
+  
+  - [PuTTY](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
