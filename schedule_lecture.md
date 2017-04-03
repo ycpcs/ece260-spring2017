@@ -41,12 +41,12 @@ Tue, Mar 21    |  [Arithmetic for Computers (continued)](lectures/lecture11_Arit
 Thur, Mar 23   |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  COD5 § 4.1 - 4.3                                           |
  | | |
 Tue, Mar 28    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  COD5 § 4.3 - 4.4                                           |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 4, 2017 
-Thur, Mar 30   |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  COD5 § 4.5 - 4.7                                           | 
+Thur, Mar 30   |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  COD5 § 4.5                                                 | 
  | | |
-Tue, Apr 4     |                                                                                                                  |                                                             | <!-- COD5 § 4.8 - 4.9 -->
-Thur, Apr 6    |                                                                                                                  |                                                             | <!-- COD5 § 4.10 -->
+Tue, Apr 4     |  Pipelined Datapath and Control                                                                                  |                                                             | <!-- COD5 § 4.6 -->
+Thur, Apr 6    |  Data and Control Hazards in a Pipelined Datapath                                                                |                                                             | <!-- COD5 § 4.7 - 4.8 -->
  | | |
-Tue, Apr 11    |  **EXAM #2 (Tentative)**                                                                                         |                                                             | <!-- EXAM #2 -->
+Tue, Apr 11    |  **EXAM #2**                                                                                                     |                                                             | <!-- EXAM #2 -->
 Thur, Apr 13   |  **NO CLASS - Spring Break**                                                                                     |                                                             | <!-- Spring Break -->
  | | |
 Tue, Apr 18    |                                                                                                                  |                                                             | <!-- COD5 § 5.1 - 5.3 -->
@@ -56,5 +56,5 @@ Tue, Apr 25    |                                                                
 Thur, Apr 27   |                                                                                                                  |                                                             | <!-- COD5 § 6.1 - 6.3 -->
  | | |
 Tue, May 2     |                                                                                                                  |                                                             | <!-- COD5 § 6.4 - 6.6 -->
-Thur, May 4    |  **EXAM #3 (Tentative)**                                                                                         |                                                             | <!-- EXAM #3 -->
+Thur, May 4    |  **EXAM #3**                                                                                                     |                                                             | <!-- EXAM #3 -->
  | | |
