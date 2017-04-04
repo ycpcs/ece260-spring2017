@@ -43,7 +43,7 @@ Thur, Mar 23   |  [Datapath for a Simplified Processor](lectures/lecture12_Datap
 Tue, Mar 28    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  COD5 § 4.3 - 4.4                                           |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 4, 2017 
 Thur, Mar 30   |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  COD5 § 4.5                                                 | 
  | | |
-Tue, Apr 4     |  Pipelined Datapath and Control                                                                                  |                                                             | <!-- COD5 § 4.6 -->
+Tue, Apr 4     |  Pipelined Datapath and Control                                                                                  |  COD5 § 4.6                                                 |  [Homework #7](homework/Homework_Assignment_7.txt) <br> No Submission Required
 Thur, Apr 6    |  Data and Control Hazards in a Pipelined Datapath                                                                |                                                             | <!-- COD5 § 4.7 - 4.8 -->
  | | |
 Tue, Apr 11    |  **EXAM #2**                                                                                                     |                                                             | <!-- EXAM #2 -->
