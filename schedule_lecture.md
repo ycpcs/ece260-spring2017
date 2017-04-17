@@ -49,10 +49,10 @@ Thur, Apr 6    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data
 Tue, Apr 11    |  **EXAM #2**                                                                                                     |                                                             |
 Thur, Apr 13   |  **NO CLASS - Spring Break**                                                                                     |                                                             | <!-- Spring Break -->
  | | |
-Tue, Apr 18    |                                                                                                                  |                                                             | <!-- COD5 § 5.1 - 5.3 -->
-Thur, Apr 20   |                                                                                                                  |                                                             | <!-- COD5 § 5.4 -->
+Tue, Apr 18    |  Memory and Memory Technologies                                                                                  |  COD5 § 5.1 - 5.2                                           |  [Homework #8](homework/Homework_Assignment_8.txt) <br> Due Tue, Apr 25, 2017
+Thur, Apr 20   |  Basics of Cache Memory                                                                                          |  COD5 § 5.3                                                 |
  | | |
-Tue, Apr 25    |                                                                                                                  |                                                             | <!-- COD5 § 5.1 - 5.3 -->
+Tue, Apr 25    |  Cache Performance                                                                                               |  COD5 § 5.4                                                 |
 Thur, Apr 27   |                                                                                                                  |                                                             | <!-- COD5 § 6.1 - 6.3 -->
  | | |
 Tue, May 2     |                                                                                                                  |                                                             | <!-- COD5 § 6.4 - 6.6 -->
