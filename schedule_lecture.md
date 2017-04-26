@@ -56,5 +56,8 @@ Tue, Apr 25    |  Basics of Cache Memory                                        
 Thur, Apr 27   |  Cache Performance                                                                                               |  COD5 § 5.4                                                 | <!-- COD5 § 6.1 - 6.3 -->
  | | |
 Tue, May 2     |                                                                                                                  |                                                             | <!-- COD5 § 6.4 - 6.6 -->
-Thur, May 4    |  **EXAM #3**                                                                                                     |                                                             | <!-- EXAM #3 -->
+Thur, May 4    |  **EXAM #3**                                                                                                     |                                                             |
+ | | |
+Tue, May 9     |  **FINAL EXAM FOR SECTIONS 102/103 (2:00 PM Section)**                                                           |                                                             | 
+Thur, May 11   |  **FINAL EXAM FOR SECTION 101 (9:30 AM Section)**                                                           |                                                             |
  | | |
