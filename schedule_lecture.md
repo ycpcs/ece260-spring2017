@@ -58,6 +58,6 @@ Thur, Apr 27   |  [Basics of Cache Memory (continued)](lectures/lecture17_Basics
 Tue, May 2     |                                                                                                                  |                                                             | <!-- COD5 § 6.4 - 6.6 -->
 Thur, May 4    |  **EXAM #3**                                                                                                     |                                                             |
  | | |
-Tue, May 9     |  **FINAL EXAM FOR SECTIONS 102/103 (2:00 PM Section)**                                                           |                                                             | 
-Thur, May 11   |  **FINAL EXAM FOR SECTION 101 (9:30 AM Section)**                                                           |                                                             |
+Tue, May 9     |  **FINAL EXAM FOR SECTIONS 102/103 @ 12:45 PM - 2:45 PM**                                                        |                                                             | 
+Thur, May 11   |  **FINAL EXAM FOR SECTION 101 @ 8:00 AM - 10:00 AM**                                                             |                                                             |
  | | |
