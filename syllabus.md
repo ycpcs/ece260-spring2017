@@ -112,7 +112,6 @@ assignment being returned to you.
 Completion of homework assignments is critical to success in this course. Homework provides an opportunity to practice 
 material from lecture and prepare for labs and exams. All homework is due in class, at the beginning of class, on their 
 assigned dates. **Absolutely no late homework will be accepted**. Work that is not turned in will receive a grade of zero. 
-However, the lowest homework grade will be dropped at the end of the semester.
 
 Homework will be graded for completion and effort for all problems and the correctness of one or more (possibly all) problems. 
 The selected problems will not be announced beforehand.
